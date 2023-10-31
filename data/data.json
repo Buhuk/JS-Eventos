@@ -2,12 +2,7 @@
     "titulo": "DOM",
     "ejercicios" : 
     [
-        "Ejercicio",
-        "Ejercicio",
-        "Ejercicio",
-        "Ejercicio",
-        "Ejercicio",
-        "Ejercicio"
+        "Crea una página como la siguiente, donde al pulsar cada botón incrementa o drecrement la Etiqueta. Además, cada vez que se pulse del ratón dentro de la zona verde o azul, se incrementa la etiqueta “Has hecho click X veces”. El botón Borrar pone a 0 el contador y la etiqueta anterior."
     ],
     "bodyColor": "#888"
 }
