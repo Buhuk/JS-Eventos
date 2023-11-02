@@ -2,7 +2,9 @@
     "titulo": "DOM",
     "ejercicios" : 
     [
-        "Crea una página como la siguiente, donde al pulsar cada botón incrementa o drecrement la Etiqueta. Además, cada vez que se pulse del ratón dentro de la zona verde o azul, se incrementa la etiqueta “Has hecho click X veces”. El botón Borrar pone a 0 el contador y la etiqueta anterior."
+        "Crea una página como la siguiente, donde al pulsar cada botón incrementa o drecrement la Etiqueta. Además, cada vez que se pulse del ratón dentro de la zona verde o azul, se incrementa la etiqueta “Has hecho click X veces”. El botón Borrar pone a 0 el contador y la etiqueta anterior.",
+        "Crea un formulario con tres controles, dos de ellos obligatorios, de manera que cuando cada control obligatorio gane el foco se muestre un mensaje indicando este hecho, y cuando pierda el foco, elimine todos los mensajes mostrados al usuario.",
+        "Crea un programa que a partir de una nutrida variedad de elementos HTML, los coloree con colores aleatorios cada vez que se coloque el ratón sobre ellos, y los vuelva a colorear de blanco cuando el ratón los abandone."
     ],
     "bodyColor": "#888"
 }
