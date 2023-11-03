@@ -56,7 +56,7 @@ function crearAcordeonItem(id, enunciado, primary) {
                     <div id="ejer${id}" class="accordion-collapse collapse ${primary ? 'show' : ''}" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <code>
-                            <script src="ejercicios/ejercicio${id}.js"></script>
+                            <script src="./ejercicios/ejercicio${id}.js"></script>
                             </code>
                         </div>
                     </div>

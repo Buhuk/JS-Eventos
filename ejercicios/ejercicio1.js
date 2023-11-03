@@ -1,4 +1,5 @@
 {
+    let contenedor = document.querySelector("#ejer1 code")
     let wrapper = document.createElement("div");
     let contador = document.createElement("div").addEventListener('click', contadorAction);
     let borrar = document.createElement("div").addEventListener('click', borrarAction);
@@ -9,6 +10,7 @@
     let numeroContador = 0;
     contador.innerHTML = `<h2>Contador</h2><div id="botones"></div><h3 id="contadorOut">Contador: 0</div>`;
     borrar.append(document.createElement("button").addEventListener('click', borrarAction));
+    contenedor.append(wrapper);
     wrapper.append(contador);
     wrapper.append(borrar);
 
